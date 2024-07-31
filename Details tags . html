@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>unique Tags</title>
+</head>
+<body>
+    <details>
+        <summary>Ankita Singh</summary>
+        <p>my name is sonali singh</p>
+        <p>i am a web developer</p>
+        <p>i do BCA from SMS(School of management Science)</p>
+        <p>my roll no is BCA23260</p>
+        </details>
+        <details>
+        <summary>Arpita Singh</summary>
+        <p>i am arpita singh</p>
+        <p>i am a commerce student</p>
+        <p>i do graduation from Gram bharti college Ramghad</p>
+        
+    </details>
+</body>
+</html>
